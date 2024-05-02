@@ -1,0 +1,3 @@
+Application de ticketing : Langage C++ avec le framework Qt6
+
+Application mobile : React native
